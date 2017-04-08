@@ -1,6 +1,6 @@
 # Team Kabbage - PROJECT 3 - Tripr
 
-###### Created by Aniko Hazi, Gerard Ho, Kerry Sng and Barry Tabios
+###### A group project created by Aniko Hazi, Gerard Ho, Kerry Sng and Barry Tabios
 
 ##### GOING TO TRAVEL? Experience Tripper link here --->['Tripr'](https://glacial-bayou-90913.herokuapp.com/)
 
@@ -9,6 +9,8 @@
 ### TECHNOLOGIES
 
 The following frameworks/languages/library/App were used in this:
+* HTML5 & CSS3
+* Bootstrap 3
 * Javascript
 * JQUERY
 * Ruby
@@ -16,13 +18,14 @@ The following frameworks/languages/library/App were used in this:
 * Backbone
 * Handlebars
 * Google Map
-* Backbone
-* Ajax
+
+### PROJECT MANAGEMENT SOFTWARE
 * Trello
 
 ### APPROACH
 
-We decided on a microblogging travel app as the group had a clearer view of the outcome and function for the app.
+We decided on a microblogging travel app as the group had a clearer view of the outcome and function for the app. We saw that individual travelers take many photographs on their journey, and it would be great if other people can also view these photographs during the time of the day, time of the year and the exact location on a map which provides a visual aid into where it was taken.
+For commerciality on this app, advertisement on airfares and tours can be integrated.  
 
 We first created wireframes and relational tables/databases.
 
@@ -107,8 +110,8 @@ Users are able to edit and update their own cards(blogs).
 ### FUTURE PLANS
 * User comments
 * Fix up on unresolved issues
-* Have a database that is able to images
-* User able to upload pics instead of saving URL links
+* Have a database that is able to store images
+* User able to upload pics instead of just saving URL links
 
 ### USER STORIES
 
